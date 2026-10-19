@@ -26,6 +26,9 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+# insforge (project.json contains the project API key)
+.insforge/
+
 # vercel
 .vercel
 
